@@ -19,7 +19,7 @@ This was developed as **Task-02** for my **Web Development Internship at Prodigy
 ## 📁 Project Structure
 ## 🔗 GitHub Repository
 
-https://atharvadhobale.github.io/prodigy-Project-02/
+https://github.com/AtharvaDhobale/prodigy-Project-02.git
 
 ## 🔗 Live Demo (if hosted)
 
